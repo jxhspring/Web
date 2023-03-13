@@ -18,6 +18,14 @@ git config --global user.name "smyhvae"
 
 git config --global user.email "smyhvae@163.com"
 ```
+### 创建rsa秘钥
+
+cd ~/.ssh
+$ ssh-keygen -t rsa -C "xxxx@email.com"
+rsa：加密方式，选 rsa|dsa 均可以，默认dsa
+执行后，会给每个都生成一对私钥公钥，私钥文件名：github_id_rsa ；公钥文件名是格式为: 私钥名+'.pub' 。
+把公钥里面的内容，粘贴到github，或者gitee的ssh公钥里面（创建一条记录）
+
 
 
 ## 分支的合并

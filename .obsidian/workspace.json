@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "b600c2ded7a7483c",
+    "type": "split",
+    "children": [
+      {
+        "id": "97ab53ee07b0334e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c53fcb954ba4d011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-前端工具/02-Git的使用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a8bc201bf53e300",
+    "type": "split",
+    "children": [
+      {
+        "id": "41c8377907fb3e8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7741f0a5e365559",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "192ed856a670cfc6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a65e5ca1561a522",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9682ba2bb3e1f7eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "50d06740a2072b62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65ca40f66131104b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-前端工具/02-Git的使用.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f8e7d2294a59c20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-前端工具/02-Git的使用.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f8a8fc04598e41a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eaed79aeb03d3bb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-前端工具/02-Git的使用.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "eaed79aeb03d3bb2",
+  "lastOpenFiles": [
+    "00-前端工具/01-VS Code的使用.md",
+    "00-前端工具/02-Git的使用.md",
+    "README.md"
+  ]
+}
